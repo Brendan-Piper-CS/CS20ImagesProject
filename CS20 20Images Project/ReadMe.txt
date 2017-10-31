@@ -10,83 +10,112 @@ Ex: soccer, People, Singers, games, Animals, Food
 - For coding make a chart
  See example image
 
+Attributes:
+ Animal		View		feels		people
+  -dog		-close 		-sad		-person
+  -cat		-far 		-happy		-no person
+
+
 Images
-#1:
-URL:https://imgflip.com/s/meme/Creepy-Condescending-Wonka.jpg
-Date:2017/10/24
+#1:bored_dog.jpg
+URL:http://www.naturallookdogs.co.uk/wp-content/uploads/bored_dog.jpg
+Date:20171024
+Attributes:Dog, close, sad, no person
 
-#2:
-URL:https://i.imgflip.com/1g7h2z.jpg?a418800
-Date:2017/10/24
+#2:Cute-Black-Dog.jpg
+URL:http://www.windowsmode.com/wp-content/uploads/2015/08/Cute-Black-Dog.jpg
+Date:20171024
+Attributes:Dog, close up, sad, no person
 
-#3:
-URL:https://img.memecdn.com/put-a-caption-on-yo-memes-aint-no-body-got-time-fo-dat_o_883225.jpg
-Date:2017/10/24
+#3:Dog-Show.jpg
+URL:https://media2.s-nbcnews.com/j/newscms/2016_07/1419786/ss-160216-westminster-dog-show-15_8e0ac1285d7a51d2983e096d8c2c200c.nbcnews-ux-2880-1000.jpg
+Date:20171024
+Attributes:Dog, far, happy, person
 
-#4:
-URL:http://s2.quickmeme.com/img/f3/f35c761e6ad877a40079453e8c7de1b17c112b4a4081a0e6e22af83b3852761d.jpg
-Date:2017/10/24
+#4:TennisDog.jpg
+URL:https://peacelovefoster.files.wordpress.com/2012/11/07.jpg
+Date:20171024
+Attributes:Dog, close, happy, no person
 
-#5:
-URL:https://i.imgflip.com/2/26am.jpg
-Date:2017/10/24
+#5:sad-dog.jpg
+URL:http://www.publicdomainpictures.net/pictures/190000/velka/sad-dog-1468490848Uk1.jpg
+Date:20171024
+Attributes:Dog, far, sad, no person
 
-#6:
-URL:https://memeguy.com/photos/images/no-caption-needed-125869.jpg
-Date:2017/10/24
 
-#7:
-URL:https://imgflip.com/s/meme/Black-Girl-Wat.jpg
-Date:2017/10/24
+#6:Owner-with-dog.jpg
+URL:http://i.ytimg.com/vi/MjJVGoM0b4s/maxresdefault.jpg
+Date:20171024
+Attributes:Dog, close, happy, person
 
-#8:
-URL:http://s.quickmeme.com/img/6b/6b5992dd99e8b8f425a99e19d4cf40cb3919f69a83486cc1d77141398e557a8a.jpg
-Date:2017/10/24
+#7:happy-dog.jpg
+URL:http://www.urdogs.com/wp-content/uploads/2016/02/happy-dog.jpg
+Date:20171024
+Attributes:Dog, far, happy, person
 
-#9:
-URL:http://memedad.com/create/thumbnails/166.jpg
-Date:2017/10/24
+#8:dogwomanbeach.jpg
+URL:http://4.bp.blogspot.com/-MhBmxxPSIqE/U6EF3dd5bGI/AAAAAAAAAtU/oshLigPM24A/s1600/shutterstock_83916265_dogwomanbeach.jpg
+Date:20171024
+Attributes:Dog, far, happy, person
 
-#10:
-URL:http://memedad.com/create/thumbnails/18.jpg
-Date:2017/10/24
+#9:sad-dog-and-owner.jpg
+URL:https://www.vitalityscience.com/wp-content/uploads/2015/07/sad-dog-and-owner-shutterstock.jpg
+Date:20171024
+Attributes:Dog, close, sad, person
 
-#11:
-URL:https://imgflip.com/s/meme/Not-Bad-Obama.jpg
-Date:2017/10/24
+#10:o-WILEY-WOLF-DOG-CRYING.jpg
+URL:http://i.huffpost.com/gen/1109819/images/o-WILEY-WOLF-DOG-CRYING-facebook.jpg
+Date:20171024
+Attributes:Dog, close, sad, person
 
-#12:
-URL:https://imgflip.com/s/meme/Picard-Wtf.jpg
-Date:2017/10/24
+#11:happyCat.jpg
+URL:https://i.pinimg.com/736x/d6/22/ee/d622ee8b0a70aeb4b5476581948cc8a3.jpg
+Date:20171024
+Attributes:Cat, close, happy, no person
 
-#13:
-URL:https://buihemadu.files.wordpress.com/2016/07/memes-no-gains-look-cropped.png?w=720
-Date:2017/10/24
+#12:happyBlackCat.jpg
+URL:https://i.pinimg.com/736x/b6/f7/7a/b6f77ad81b5b8be61fd56444780aed59.jpg
+Date:20171024
+Attributes:Cat, close, happy, no person
 
-#14:
-URL:http://ct.fra.bz/i53/5/6/24/f_c036ed99b3.jpg
-Date:2017/10/24
+#13:cat-playing-with-owner.jpg
+URL:http://i.dailymail.co.uk/i/pix/2012/08/18/article-2190304-0D8F66F900000578-382_468x377.jpg
+Date:20171024
+Attributes:Cat, far, happy, person
 
-#15:
-URL:http:https://memegenerator.net/img/images/600x600/15300528/confused-will-smith.jpg
-Date:2017/10/24
+#14:cat-smile-smile-smile.jpg
+URL:https://i.pinimg.com/736x/1d/83/e0/1d83e0f607b7b1de607fff558a573b6c--cat-smile-smile-smile.jpg
+Date:20171024
+Attributes:Cat, close, happy, no person
 
-#16:
-URL:https://imgflip.com/s/meme/Impossibru-Guy-Original.jpg
-Date:2017/10/24
+#15:cancer-prevention-cat-check.jpg
+URL:https://d2gg9evh47fn9z.cloudfront.net/thumb_COLOURBOX3276317.jpg
+Date:20171024
+Attributes:Cat, far, happy, person
 
-#17:
-URL:https://imgflip.com/s/meme/Conspiracy-Keanu.jpg
-Date:2017/10/24
+#16:sadCat.jpg
+URL:http://happycatsonline.com/wp-content/uploads/2017/03/6sgseg-1-600x315.jpg
+Date:20171024
+Attributes:Cat, close, sad, no person
 
-#18:
-URL:https://cdn.theatlantic.com/assets/media/img/upload/wire/2014/08/26/AP101018137899/lead_large.jpg?1473270356
-Date:2017/10/24
+#17:wide-eyed-sad-cat.jpg
+URL:http://1funny.com/wp-content/uploads/2011/05/sad-cat.jpg
+Date:20171024
+Attributes:Cat, close, sad, no person
 
-#19:
-URL:http://i0.kym-cdn.com/entries/icons/original/000/022/138/reece.JPG
-Date:2017/10/24
 
-#20:
-URL:http://i0.kym-cdn.com/entries/icons/original/000/008/402/Screen_shot_2012-01-18_at_5.28.23_PM.png
-Date:2017/10/24
+#18:tiny-sad-cat.jpg
+URL:http://assets.nydailynews.com/polopoly_fs/1.1860263.1404921422!/img/httpImage/image.jpg_gen/derivatives/article_970/sad-cat.jpg
+Date:20171024
+Attributes:Cat, close, sad, person
+
+
+#19:sad-cat-with-owner.jpg
+URL:https://www.catersnews.com/wp-content/uploads/2014/12/CATERS_Puss_In_Boots_03-800x498.jpg
+Date:20171024
+Attributes:Cat, close, sad, person
+
+suprised-cat.jpg
+URL:http://home.bt.com/images/oscar-the-kitten-in-marseille-france-136387272963510401-140203155507.jpg
+Date:20171024
+Attributes:Cat, close, sad, person
